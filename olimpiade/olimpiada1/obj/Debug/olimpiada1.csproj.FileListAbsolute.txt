@@ -1,0 +1,8 @@
+C:\Users\st328-03\Documents\Высоцкий ПР-32\olimpiada1\bin\Debug\olimpiada1.exe.config
+C:\Users\st328-03\Documents\Высоцкий ПР-32\olimpiada1\bin\Debug\olimpiada1.exe
+C:\Users\st328-03\Documents\Высоцкий ПР-32\olimpiada1\bin\Debug\olimpiada1.pdb
+C:\Users\st328-03\Documents\Высоцкий ПР-32\olimpiada1\obj\Debug\olimpiada1.csproj.AssemblyReference.cache
+C:\Users\st328-03\Documents\Высоцкий ПР-32\olimpiada1\obj\Debug\olimpiada1.csproj.CoreCompileInputs.cache
+C:\Users\st328-03\Documents\Высоцкий ПР-32\olimpiada1\obj\Debug\olimpiada1.exe
+C:\Users\st328-03\Documents\Высоцкий ПР-32\olimpiada1\obj\Debug\olimpiada1.pdb
+C:\Users\st328-03\Documents\Высоцкий ПР-32\olimpiada1\obj\Debug\olimpiada1.exe.config
